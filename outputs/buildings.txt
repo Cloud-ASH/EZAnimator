@@ -1,0 +1,606 @@
+Create rectangle background with color of (33.0, 94.0, 248.0), with cornor at (0.0, 0.0), width 800.0 and height 800.0
+Create rectangle B0 with color of (0.0, 0.0, 0.0), with cornor at (80.0, 424.0), width 100.0 and height 326.0
+Create rectangle B1 with color of (0.0, 0.0, 0.0), with cornor at (260.0, 365.0), width 100.0 and height 385.0
+Create rectangle B2 with color of (0.0, 0.0, 0.0), with cornor at (440.0, 375.0), width 100.0 and height 375.0
+Create rectangle B3 with color of (0.0, 0.0, 0.0), with cornor at (620.0, 445.0), width 100.0 and height 305.0
+Create rectangle window000 with color of (255.0, 255.0, 255.0), with cornor at (100.0, 850.0), width 20.0 and height 20.0
+Create rectangle window001 with color of (255.0, 255.0, 255.0), with cornor at (140.0, 850.0), width 20.0 and height 20.0
+Create rectangle window010 with color of (255.0, 255.0, 255.0), with cornor at (100.0, 890.0), width 20.0 and height 20.0
+Create rectangle window011 with color of (255.0, 255.0, 255.0), with cornor at (140.0, 890.0), width 20.0 and height 20.0
+Create rectangle window020 with color of (255.0, 255.0, 255.0), with cornor at (100.0, 930.0), width 20.0 and height 20.0
+Create rectangle window021 with color of (255.0, 255.0, 255.0), with cornor at (140.0, 930.0), width 20.0 and height 20.0
+Create rectangle window030 with color of (255.0, 255.0, 255.0), with cornor at (100.0, 970.0), width 20.0 and height 20.0
+Create rectangle window031 with color of (255.0, 255.0, 255.0), with cornor at (140.0, 970.0), width 20.0 and height 20.0
+Create rectangle window040 with color of (255.0, 255.0, 255.0), with cornor at (100.0, 1010.0), width 20.0 and height 20.0
+Create rectangle window041 with color of (255.0, 255.0, 255.0), with cornor at (140.0, 1010.0), width 20.0 and height 20.0
+Create rectangle window050 with color of (255.0, 255.0, 255.0), with cornor at (100.0, 1050.0), width 20.0 and height 20.0
+Create rectangle window051 with color of (255.0, 255.0, 255.0), with cornor at (140.0, 1050.0), width 20.0 and height 20.0
+Create rectangle window060 with color of (255.0, 255.0, 255.0), with cornor at (100.0, 1090.0), width 20.0 and height 20.0
+Create rectangle window061 with color of (255.0, 255.0, 255.0), with cornor at (140.0, 1090.0), width 20.0 and height 20.0
+Create rectangle window100 with color of (255.0, 255.0, 255.0), with cornor at (280.0, -750.0), width 20.0 and height 20.0
+Create rectangle window101 with color of (255.0, 255.0, 255.0), with cornor at (320.0, -750.0), width 20.0 and height 20.0
+Create rectangle window110 with color of (255.0, 255.0, 255.0), with cornor at (280.0, -710.0), width 20.0 and height 20.0
+Create rectangle window111 with color of (255.0, 255.0, 255.0), with cornor at (320.0, -710.0), width 20.0 and height 20.0
+Create rectangle window120 with color of (255.0, 255.0, 255.0), with cornor at (280.0, -670.0), width 20.0 and height 20.0
+Create rectangle window121 with color of (255.0, 255.0, 255.0), with cornor at (320.0, -670.0), width 20.0 and height 20.0
+Create rectangle window130 with color of (255.0, 255.0, 255.0), with cornor at (280.0, -630.0), width 20.0 and height 20.0
+Create rectangle window131 with color of (255.0, 255.0, 255.0), with cornor at (320.0, -630.0), width 20.0 and height 20.0
+Create rectangle window140 with color of (255.0, 255.0, 255.0), with cornor at (280.0, -590.0), width 20.0 and height 20.0
+Create rectangle window141 with color of (255.0, 255.0, 255.0), with cornor at (320.0, -590.0), width 20.0 and height 20.0
+Create rectangle window150 with color of (255.0, 255.0, 255.0), with cornor at (280.0, -550.0), width 20.0 and height 20.0
+Create rectangle window151 with color of (255.0, 255.0, 255.0), with cornor at (320.0, -550.0), width 20.0 and height 20.0
+Create rectangle window160 with color of (255.0, 255.0, 255.0), with cornor at (280.0, -510.0), width 20.0 and height 20.0
+Create rectangle window161 with color of (255.0, 255.0, 255.0), with cornor at (320.0, -510.0), width 20.0 and height 20.0
+Create rectangle window170 with color of (255.0, 255.0, 255.0), with cornor at (280.0, -470.0), width 20.0 and height 20.0
+Create rectangle window171 with color of (255.0, 255.0, 255.0), with cornor at (320.0, -470.0), width 20.0 and height 20.0
+Create rectangle window180 with color of (255.0, 255.0, 255.0), with cornor at (280.0, -430.0), width 20.0 and height 20.0
+Create rectangle window181 with color of (255.0, 255.0, 255.0), with cornor at (320.0, -430.0), width 20.0 and height 20.0
+Create rectangle window200 with color of (255.0, 255.0, 255.0), with cornor at (460.0, 850.0), width 20.0 and height 20.0
+Create rectangle window201 with color of (255.0, 255.0, 255.0), with cornor at (500.0, 850.0), width 20.0 and height 20.0
+Create rectangle window210 with color of (255.0, 255.0, 255.0), with cornor at (460.0, 890.0), width 20.0 and height 20.0
+Create rectangle window211 with color of (255.0, 255.0, 255.0), with cornor at (500.0, 890.0), width 20.0 and height 20.0
+Create rectangle window220 with color of (255.0, 255.0, 255.0), with cornor at (460.0, 930.0), width 20.0 and height 20.0
+Create rectangle window221 with color of (255.0, 255.0, 255.0), with cornor at (500.0, 930.0), width 20.0 and height 20.0
+Create rectangle window230 with color of (255.0, 255.0, 255.0), with cornor at (460.0, 970.0), width 20.0 and height 20.0
+Create rectangle window231 with color of (255.0, 255.0, 255.0), with cornor at (500.0, 970.0), width 20.0 and height 20.0
+Create rectangle window240 with color of (255.0, 255.0, 255.0), with cornor at (460.0, 1010.0), width 20.0 and height 20.0
+Create rectangle window241 with color of (255.0, 255.0, 255.0), with cornor at (500.0, 1010.0), width 20.0 and height 20.0
+Create rectangle window250 with color of (255.0, 255.0, 255.0), with cornor at (460.0, 1050.0), width 20.0 and height 20.0
+Create rectangle window251 with color of (255.0, 255.0, 255.0), with cornor at (500.0, 1050.0), width 20.0 and height 20.0
+Create rectangle window260 with color of (255.0, 255.0, 255.0), with cornor at (460.0, 1090.0), width 20.0 and height 20.0
+Create rectangle window261 with color of (255.0, 255.0, 255.0), with cornor at (500.0, 1090.0), width 20.0 and height 20.0
+Create rectangle window270 with color of (255.0, 255.0, 255.0), with cornor at (460.0, 1130.0), width 20.0 and height 20.0
+Create rectangle window271 with color of (255.0, 255.0, 255.0), with cornor at (500.0, 1130.0), width 20.0 and height 20.0
+Create rectangle window300 with color of (255.0, 255.0, 255.0), with cornor at (640.0, -750.0), width 20.0 and height 20.0
+Create rectangle window301 with color of (255.0, 255.0, 255.0), with cornor at (680.0, -750.0), width 20.0 and height 20.0
+Create rectangle window310 with color of (255.0, 255.0, 255.0), with cornor at (640.0, -710.0), width 20.0 and height 20.0
+Create rectangle window311 with color of (255.0, 255.0, 255.0), with cornor at (680.0, -710.0), width 20.0 and height 20.0
+Create rectangle window320 with color of (255.0, 255.0, 255.0), with cornor at (640.0, -670.0), width 20.0 and height 20.0
+Create rectangle window321 with color of (255.0, 255.0, 255.0), with cornor at (680.0, -670.0), width 20.0 and height 20.0
+Create rectangle window330 with color of (255.0, 255.0, 255.0), with cornor at (640.0, -630.0), width 20.0 and height 20.0
+Create rectangle window331 with color of (255.0, 255.0, 255.0), with cornor at (680.0, -630.0), width 20.0 and height 20.0
+Create rectangle window340 with color of (255.0, 255.0, 255.0), with cornor at (640.0, -590.0), width 20.0 and height 20.0
+Create rectangle window341 with color of (255.0, 255.0, 255.0), with cornor at (680.0, -590.0), width 20.0 and height 20.0
+Create rectangle window350 with color of (255.0, 255.0, 255.0), with cornor at (640.0, -550.0), width 20.0 and height 20.0
+Create rectangle window351 with color of (255.0, 255.0, 255.0), with cornor at (680.0, -550.0), width 20.0 and height 20.0
+Create rectangle window360 with color of (255.0, 255.0, 255.0), with cornor at (640.0, -510.0), width 20.0 and height 20.0
+Create rectangle window361 with color of (255.0, 255.0, 255.0), with cornor at (680.0, -510.0), width 20.0 and height 20.0
+Create oval moon with color of (229.0, 229.0, 255.0), with center at (200.0, 200.0), radius 100.0 and 100.0
+Create oval eclipse with color of (33.0, 94.0, 248.0), with center at (400.0, 0.0), radius 100.0 and 100.0
+Create oval star0 with color of (255.0, 255.0, 255.0), with center at (223.0, 66.0), radius 6.0 and 6.0
+Create oval star1 with color of (255.0, 255.0, 255.0), with center at (585.0, 211.0), radius 6.0 and 6.0
+Create oval star2 with color of (255.0, 255.0, 255.0), with center at (489.0, 77.0), radius 6.0 and 6.0
+Create oval star3 with color of (255.0, 255.0, 255.0), with center at (374.0, 286.0), radius 6.0 and 6.0
+Create oval star4 with color of (255.0, 255.0, 255.0), with center at (708.0, 281.0), radius 6.0 and 6.0
+Create oval star5 with color of (255.0, 255.0, 255.0), with center at (508.0, 260.0), radius 6.0 and 6.0
+Create oval star6 with color of (255.0, 255.0, 255.0), with center at (529.0, 70.0), radius 6.0 and 6.0
+Create oval star7 with color of (255.0, 255.0, 255.0), with center at (332.0, 65.0), radius 6.0 and 6.0
+Create oval star8 with color of (255.0, 255.0, 255.0), with center at (311.0, 147.0), radius 6.0 and 6.0
+Create oval star9 with color of (255.0, 255.0, 255.0), with center at (170.0, 281.0), radius 6.0 and 6.0
+Create oval star10 with color of (255.0, 255.0, 255.0), with center at (719.0, 102.0), radius 6.0 and 6.0
+Create oval star11 with color of (255.0, 255.0, 255.0), with center at (524.0, 264.0), radius 6.0 and 6.0
+Create oval star12 with color of (255.0, 255.0, 255.0), with center at (768.0, 194.0), radius 6.0 and 6.0
+Create oval star13 with color of (255.0, 255.0, 255.0), with center at (766.0, 179.0), radius 6.0 and 6.0
+Create oval star14 with color of (255.0, 255.0, 255.0), with center at (510.0, 78.0), radius 6.0 and 6.0
+Create oval star15 with color of (255.0, 255.0, 255.0), with center at (621.0, 149.0), radius 6.0 and 6.0
+Create oval star16 with color of (255.0, 255.0, 255.0), with center at (491.0, 252.0), radius 6.0 and 6.0
+Create oval star17 with color of (255.0, 255.0, 255.0), with center at (405.0, 63.0), radius 6.0 and 6.0
+Create oval star18 with color of (255.0, 255.0, 255.0), with center at (550.0, 267.0), radius 6.0 and 6.0
+Create oval star19 with color of (255.0, 255.0, 255.0), with center at (108.0, 197.0), radius 6.0 and 6.0
+Create oval star20 with color of (255.0, 255.0, 255.0), with center at (737.0, 78.0), radius 6.0 and 6.0
+Create oval star21 with color of (255.0, 255.0, 255.0), with center at (795.0, 137.0), radius 6.0 and 6.0
+Create oval star22 with color of (255.0, 255.0, 255.0), with center at (184.0, 125.0), radius 6.0 and 6.0
+Create oval star23 with color of (255.0, 255.0, 255.0), with center at (134.0, 230.0), radius 6.0 and 6.0
+Create oval star24 with color of (255.0, 255.0, 255.0), with center at (244.0, 153.0), radius 6.0 and 6.0
+Create oval star25 with color of (255.0, 255.0, 255.0), with center at (259.0, 119.0), radius 6.0 and 6.0
+Create oval star26 with color of (255.0, 255.0, 255.0), with center at (322.0, 269.0), radius 6.0 and 6.0
+Create oval star27 with color of (255.0, 255.0, 255.0), with center at (412.0, 182.0), radius 6.0 and 6.0
+Create oval star28 with color of (255.0, 255.0, 255.0), with center at (674.0, 137.0), radius 6.0 and 6.0
+Create oval star29 with color of (255.0, 255.0, 255.0), with center at (46.0, 246.0), radius 6.0 and 6.0
+Create oval star30 with color of (255.0, 255.0, 255.0), with center at (388.0, 315.0), radius 6.0 and 6.0
+Create oval star31 with color of (255.0, 255.0, 255.0), with center at (185.0, 236.0), radius 6.0 and 6.0
+Create oval star32 with color of (255.0, 255.0, 255.0), with center at (550.0, 232.0), radius 6.0 and 6.0
+Create oval star33 with color of (255.0, 255.0, 255.0), with center at (656.0, 101.0), radius 6.0 and 6.0
+Create oval star34 with color of (255.0, 255.0, 255.0), with center at (283.0, 111.0), radius 6.0 and 6.0
+Create oval star35 with color of (255.0, 255.0, 255.0), with center at (649.0, 326.0), radius 6.0 and 6.0
+Create oval star36 with color of (255.0, 255.0, 255.0), with center at (691.0, 267.0), radius 6.0 and 6.0
+Create oval star37 with color of (255.0, 255.0, 255.0), with center at (113.0, 276.0), radius 6.0 and 6.0
+Create oval star38 with color of (255.0, 255.0, 255.0), with center at (604.0, 302.0), radius 6.0 and 6.0
+Create oval star39 with color of (255.0, 255.0, 255.0), with center at (462.0, 162.0), radius 6.0 and 6.0
+
+background appears at time t=1 and disappears at time t=100000
+B0 appears at time t=1 and disappears at time t=100000
+B1 appears at time t=1 and disappears at time t=100000
+B2 appears at time t=1 and disappears at time t=100000
+B3 appears at time t=1 and disappears at time t=100000
+window000 appears at time t=1 and disappears at time t=100000
+window001 appears at time t=1 and disappears at time t=100000
+window010 appears at time t=1 and disappears at time t=100000
+window011 appears at time t=1 and disappears at time t=100000
+window020 appears at time t=1 and disappears at time t=100000
+window021 appears at time t=1 and disappears at time t=100000
+window030 appears at time t=1 and disappears at time t=100000
+window031 appears at time t=1 and disappears at time t=100000
+window040 appears at time t=1 and disappears at time t=100000
+window041 appears at time t=1 and disappears at time t=100000
+window050 appears at time t=1 and disappears at time t=100000
+window051 appears at time t=1 and disappears at time t=100000
+window060 appears at time t=1 and disappears at time t=100000
+window061 appears at time t=1 and disappears at time t=100000
+window100 appears at time t=1 and disappears at time t=100000
+window101 appears at time t=1 and disappears at time t=100000
+window110 appears at time t=1 and disappears at time t=100000
+window111 appears at time t=1 and disappears at time t=100000
+window120 appears at time t=1 and disappears at time t=100000
+window121 appears at time t=1 and disappears at time t=100000
+window130 appears at time t=1 and disappears at time t=100000
+window131 appears at time t=1 and disappears at time t=100000
+window140 appears at time t=1 and disappears at time t=100000
+window141 appears at time t=1 and disappears at time t=100000
+window150 appears at time t=1 and disappears at time t=100000
+window151 appears at time t=1 and disappears at time t=100000
+window160 appears at time t=1 and disappears at time t=100000
+window161 appears at time t=1 and disappears at time t=100000
+window170 appears at time t=1 and disappears at time t=100000
+window171 appears at time t=1 and disappears at time t=100000
+window180 appears at time t=1 and disappears at time t=100000
+window181 appears at time t=1 and disappears at time t=100000
+window200 appears at time t=1 and disappears at time t=100000
+window201 appears at time t=1 and disappears at time t=100000
+window210 appears at time t=1 and disappears at time t=100000
+window211 appears at time t=1 and disappears at time t=100000
+window220 appears at time t=1 and disappears at time t=100000
+window221 appears at time t=1 and disappears at time t=100000
+window230 appears at time t=1 and disappears at time t=100000
+window231 appears at time t=1 and disappears at time t=100000
+window240 appears at time t=1 and disappears at time t=100000
+window241 appears at time t=1 and disappears at time t=100000
+window250 appears at time t=1 and disappears at time t=100000
+window251 appears at time t=1 and disappears at time t=100000
+window260 appears at time t=1 and disappears at time t=100000
+window261 appears at time t=1 and disappears at time t=100000
+window270 appears at time t=1 and disappears at time t=100000
+window271 appears at time t=1 and disappears at time t=100000
+window300 appears at time t=1 and disappears at time t=100000
+window301 appears at time t=1 and disappears at time t=100000
+window310 appears at time t=1 and disappears at time t=100000
+window311 appears at time t=1 and disappears at time t=100000
+window320 appears at time t=1 and disappears at time t=100000
+window321 appears at time t=1 and disappears at time t=100000
+window330 appears at time t=1 and disappears at time t=100000
+window331 appears at time t=1 and disappears at time t=100000
+window340 appears at time t=1 and disappears at time t=100000
+window341 appears at time t=1 and disappears at time t=100000
+window350 appears at time t=1 and disappears at time t=100000
+window351 appears at time t=1 and disappears at time t=100000
+window360 appears at time t=1 and disappears at time t=100000
+window361 appears at time t=1 and disappears at time t=100000
+moon appears at time t=1 and disappears at time t=100000
+eclipse appears at time t=1 and disappears at time t=100000
+star0 appears at time t=108 and disappears at time t=100000
+star1 appears at time t=120 and disappears at time t=100000
+star2 appears at time t=110 and disappears at time t=100000
+star3 appears at time t=93 and disappears at time t=100000
+star4 appears at time t=83 and disappears at time t=100000
+star5 appears at time t=97 and disappears at time t=100000
+star6 appears at time t=92 and disappears at time t=100000
+star7 appears at time t=117 and disappears at time t=100000
+star8 appears at time t=86 and disappears at time t=100000
+star9 appears at time t=88 and disappears at time t=100000
+star10 appears at time t=90 and disappears at time t=100000
+star11 appears at time t=129 and disappears at time t=100000
+star12 appears at time t=86 and disappears at time t=100000
+star13 appears at time t=113 and disappears at time t=100000
+star14 appears at time t=98 and disappears at time t=100000
+star15 appears at time t=114 and disappears at time t=100000
+star16 appears at time t=106 and disappears at time t=100000
+star17 appears at time t=89 and disappears at time t=100000
+star18 appears at time t=113 and disappears at time t=100000
+star19 appears at time t=94 and disappears at time t=100000
+star20 appears at time t=103 and disappears at time t=100000
+star21 appears at time t=126 and disappears at time t=100000
+star22 appears at time t=89 and disappears at time t=100000
+star23 appears at time t=96 and disappears at time t=100000
+star24 appears at time t=120 and disappears at time t=100000
+star25 appears at time t=112 and disappears at time t=100000
+star26 appears at time t=106 and disappears at time t=100000
+star27 appears at time t=117 and disappears at time t=100000
+star28 appears at time t=119 and disappears at time t=100000
+star29 appears at time t=96 and disappears at time t=100000
+star30 appears at time t=123 and disappears at time t=100000
+star31 appears at time t=121 and disappears at time t=100000
+star32 appears at time t=109 and disappears at time t=100000
+star33 appears at time t=94 and disappears at time t=100000
+star34 appears at time t=84 and disappears at time t=100000
+star35 appears at time t=92 and disappears at time t=100000
+star36 appears at time t=115 and disappears at time t=100000
+star37 appears at time t=99 and disappears at time t=100000
+star38 appears at time t=99 and disappears at time t=100000
+star39 appears at time t=127 and disappears at time t=100000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shape window000 moves from(100.0, 850.0) to (100.0, 710.0) from t= 20 to t=60
+Shape window001 moves from(140.0, 850.0) to (140.0, 710.0) from t= 20 to t=60
+Shape window010 moves from(100.0, 890.0) to (100.0, 670.0) from t= 20 to t=60
+Shape window011 moves from(140.0, 890.0) to (140.0, 670.0) from t= 20 to t=60
+Shape window020 moves from(100.0, 930.0) to (100.0, 630.0) from t= 20 to t=60
+Shape window021 moves from(140.0, 930.0) to (140.0, 630.0) from t= 20 to t=60
+Shape window030 moves from(100.0, 970.0) to (100.0, 590.0) from t= 20 to t=60
+Shape window031 moves from(140.0, 970.0) to (140.0, 590.0) from t= 20 to t=60
+Shape window040 moves from(100.0, 1010.0) to (100.0, 550.0) from t= 20 to t=60
+Shape window041 moves from(140.0, 1010.0) to (140.0, 550.0) from t= 20 to t=60
+Shape window050 moves from(100.0, 1050.0) to (100.0, 510.0) from t= 20 to t=60
+Shape window051 moves from(140.0, 1050.0) to (140.0, 510.0) from t= 20 to t=60
+Shape window060 moves from(100.0, 1090.0) to (100.0, 470.0) from t= 20 to t=60
+Shape window061 moves from(140.0, 1090.0) to (140.0, 470.0) from t= 20 to t=60
+Shape window100 moves from(280.0, -750.0) to (280.0, 710.0) from t= 20 to t=60
+Shape window101 moves from(320.0, -750.0) to (320.0, 710.0) from t= 20 to t=60
+Shape window110 moves from(280.0, -710.0) to (280.0, 670.0) from t= 20 to t=60
+Shape window111 moves from(320.0, -710.0) to (320.0, 670.0) from t= 20 to t=60
+Shape window120 moves from(280.0, -670.0) to (280.0, 630.0) from t= 20 to t=60
+Shape window121 moves from(320.0, -670.0) to (320.0, 630.0) from t= 20 to t=60
+Shape window130 moves from(280.0, -630.0) to (280.0, 590.0) from t= 20 to t=60
+Shape window131 moves from(320.0, -630.0) to (320.0, 590.0) from t= 20 to t=60
+Shape window140 moves from(280.0, -590.0) to (280.0, 550.0) from t= 20 to t=60
+Shape window141 moves from(320.0, -590.0) to (320.0, 550.0) from t= 20 to t=60
+Shape window150 moves from(280.0, -550.0) to (280.0, 510.0) from t= 20 to t=60
+Shape window151 moves from(320.0, -550.0) to (320.0, 510.0) from t= 20 to t=60
+Shape window160 moves from(280.0, -510.0) to (280.0, 470.0) from t= 20 to t=60
+Shape window161 moves from(320.0, -510.0) to (320.0, 470.0) from t= 20 to t=60
+Shape window170 moves from(280.0, -470.0) to (280.0, 430.0) from t= 20 to t=60
+Shape window171 moves from(320.0, -470.0) to (320.0, 430.0) from t= 20 to t=60
+Shape window180 moves from(280.0, -430.0) to (280.0, 390.0) from t= 20 to t=60
+Shape window181 moves from(320.0, -430.0) to (320.0, 390.0) from t= 20 to t=60
+Shape window200 moves from(460.0, 850.0) to (460.0, 710.0) from t= 20 to t=60
+Shape window201 moves from(500.0, 850.0) to (500.0, 710.0) from t= 20 to t=60
+Shape window210 moves from(460.0, 890.0) to (460.0, 670.0) from t= 20 to t=60
+Shape window211 moves from(500.0, 890.0) to (500.0, 670.0) from t= 20 to t=60
+Shape window220 moves from(460.0, 930.0) to (460.0, 630.0) from t= 20 to t=60
+Shape window221 moves from(500.0, 930.0) to (500.0, 630.0) from t= 20 to t=60
+Shape window230 moves from(460.0, 970.0) to (460.0, 590.0) from t= 20 to t=60
+Shape window231 moves from(500.0, 970.0) to (500.0, 590.0) from t= 20 to t=60
+Shape window240 moves from(460.0, 1010.0) to (460.0, 550.0) from t= 20 to t=60
+Shape window241 moves from(500.0, 1010.0) to (500.0, 550.0) from t= 20 to t=60
+Shape window250 moves from(460.0, 1050.0) to (460.0, 510.0) from t= 20 to t=60
+Shape window251 moves from(500.0, 1050.0) to (500.0, 510.0) from t= 20 to t=60
+Shape window260 moves from(460.0, 1090.0) to (460.0, 470.0) from t= 20 to t=60
+Shape window261 moves from(500.0, 1090.0) to (500.0, 470.0) from t= 20 to t=60
+Shape window270 moves from(460.0, 1130.0) to (460.0, 430.0) from t= 20 to t=60
+Shape window271 moves from(500.0, 1130.0) to (500.0, 430.0) from t= 20 to t=60
+Shape window300 moves from(640.0, -750.0) to (640.0, 710.0) from t= 20 to t=60
+Shape window301 moves from(680.0, -750.0) to (680.0, 710.0) from t= 20 to t=60
+Shape window310 moves from(640.0, -710.0) to (640.0, 670.0) from t= 20 to t=60
+Shape window311 moves from(680.0, -710.0) to (680.0, 670.0) from t= 20 to t=60
+Shape window320 moves from(640.0, -670.0) to (640.0, 630.0) from t= 20 to t=60
+Shape window321 moves from(680.0, -670.0) to (680.0, 630.0) from t= 20 to t=60
+Shape window330 moves from(640.0, -630.0) to (640.0, 590.0) from t= 20 to t=60
+Shape window331 moves from(680.0, -630.0) to (680.0, 590.0) from t= 20 to t=60
+Shape window340 moves from(640.0, -590.0) to (640.0, 550.0) from t= 20 to t=60
+Shape window341 moves from(680.0, -590.0) to (680.0, 550.0) from t= 20 to t=60
+Shape window350 moves from(640.0, -550.0) to (640.0, 510.0) from t= 20 to t=60
+Shape window351 moves from(680.0, -550.0) to (680.0, 510.0) from t= 20 to t=60
+Shape window360 moves from(640.0, -510.0) to (640.0, 470.0) from t= 20 to t=60
+Shape window361 moves from(680.0, -510.0) to (680.0, 470.0) from t= 20 to t=60
+Shape background changes color from(33.0, 94.0, 248.0) to (16.0, 45.0, 248.0) from t= 50 to t=90
+Shape eclipse moves from(400.0, 0.0) to (230.0, 180.0) from t= 50 to t=90
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shape window330 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 81 to t=86
+Shape window021 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 82 to t=87
+Shape window210 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 83 to t=88
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shape window061 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 93 to t=98
+
+
+
+
+
+
+Shape window110 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 95 to t=100
+Shape window261 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 96 to t=101
+
+
+
+
+
+
+
+
+
+Shape window151 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 99 to t=104
+Shape window360 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 99 to t=104
+Shape window361 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 99 to t=104
+
+
+
+
+
+Shape window351 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 100 to t=105
+
+Shape window310 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 103 to t=108
+
+
+
+
+
+
+
+
+
+
+Shape window101 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 108 to t=113
+
+
+
+
+
+
+
+Shape window241 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 112 to t=117
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shape window331 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 119 to t=124
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shape window200 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 127 to t=132
+
+
+Shape window250 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 128 to t=133
+
+
+
+
+Shape window301 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 135 to t=140
+
+Shape window041 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 147 to t=152
+Shape window060 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 147 to t=152
+Shape window131 changes color from(255.0, 255.0, 255.0) to (255.0, 255.0, 0.0) from t= 148 to t=153
+
+
+
